@@ -1,7 +1,7 @@
 
 # Spotibar
 
-![[Spotibar6.png]]
+![Spotibar6](https://github.com/user-attachments/assets/bfaf28e0-8b66-4809-a9f5-755c518644b5)
 
 * Launch Spotify from skin's Spotify Icon, minimizes back to icon when Spotify is not running.
 * Hovering over song cover, show the **Controls panel** and **Detail panel**.
@@ -13,7 +13,7 @@
 * Progress bar and Song name have accent color from song cover.
 
 ###### * Minimize the Spotify window rather than close it to work properly.
-###### * It only works with the Spotify desktop app; the web player is not yet supported, maybe it will work in the new versions.
+###### * It only works with the Spotify desktop app; the web player is not yet supported.
 
 ## Installation
 
