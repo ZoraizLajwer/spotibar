@@ -21,7 +21,7 @@
 
 1. Install [Spotify](https://www.spotify.com/download/windows)
 2. Install [Rainmeter](https://rainmeter.net)
-3. Install skin [Spotibar](https://github.com/avenom/spotibar/releases/tag/v0.4)
+3. Install skin [Spotibar](https://github.com/ZoraizLajwer/spotibar)
 
 ## Rainmeter Skin Settings
 
