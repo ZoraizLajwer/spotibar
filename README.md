@@ -1,7 +1,7 @@
 
 # Spotibar
 
-![Spotibar6](https://github.com/user-attachments/assets/bfaf28e0-8b66-4809-a9f5-755c518644b5)
+![Spotibar_menu (1)](https://github.com/user-attachments/assets/25769c0d-5226-4178-90e6-1022db33aae7)
 
 * Launch Spotify from skin's Spotify Icon, minimizes back to icon when Spotify is not running.
 * Hovering over song cover, show the **Controls panel** and **Detail panel**.
@@ -11,6 +11,8 @@
 * Right clicking on the skin **mute/unmute**.
 * Track the song's progress by using the progress bar around the cover.
 * Progress bar and Song name have accent color from song cover.
+
+![Spotibar_skin](https://github.com/user-attachments/assets/b1f05398-6c7b-4f28-8d49-01c7776600de)
 
 ###### * Minimize the Spotify window rather than close it to work properly.
 ###### * It only works with the Spotify desktop app; the web player is not yet supported.
