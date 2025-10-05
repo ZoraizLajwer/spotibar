@@ -1,7 +1,9 @@
 
+
+
 # Spotibar
 
-![Spotibar_menu (1)](/assets/taskbar.png)
+<img width="705" height="505" alt="preview" src="https://github.com/user-attachments/assets/0f4f5af2-cfbf-4ccd-ac58-d87201d0701c" />
 
 * Launch Spotify directly from the skin’s Spotify icon. If Spotify is not running, the skin minimizes back to the icon.
 * Hovering over the album cover reveals the **Controls Panel** and **Song Info Panel**, or only the **Song Info Panel**, depending on the selected skin.
@@ -16,7 +18,7 @@
 * To use it with Spotify Web, install the [WebNowPlaying](https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli) extension.
 
 
-![Spotibar_skin](/assets/preview.png)
+<img width="883" height="518" alt="taskbar" src="https://github.com/user-attachments/assets/9a5eab1d-03ab-4243-a415-09dd08f3e797" />
 
 ###### * Minimize the Spotify window rather than close it to work properly.
 ###### * It only works with the Spotify desktop app; the web player is not yet supported.
