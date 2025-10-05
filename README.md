@@ -1,18 +1,22 @@
 
 # Spotibar
 
-![Spotibar_menu (1)](https://github.com/user-attachments/assets/25769c0d-5226-4178-90e6-1022db33aae7)
+![Spotibar_menu (1)](/assets/taskbar.png)
 
-* Launch Spotify from skin's Spotify Icon, minimizes back to icon when Spotify is not running.
-* Hovering over song cover, show the **Controls panel** and **Detail panel**.
-* Clicking on the Song cover or Details panel opens the Spotify window.
-* Control buttons: `Previous track`, `Play/Pause`, `Next track`, `Repeat`
-* Control **volume** by scrolling the mouse wheel over the skin or doing a two-finger up/down gesture on the trackpad.
-* Right clicking on the skin **mute/unmute**.
-* Track the song's progress by using the progress bar around the cover.
-* Progress bar and Song name have accent color from song cover.
+* Launch Spotify directly from the skin’s Spotify icon. If Spotify is not running, the skin minimizes back to the icon.
+* Hovering over the album cover reveals the **Controls Panel** and **Song Info Panel**, or only the **Song Info Panel**, depending on the selected skin.
+* Clicking the album cover or details panel opens the main Spotify window.
+* Playback controls include: **Previous Track**, **Play/Pause**, **Next Track**, and **Repeat**.
+* Adjust volume by scrolling the mouse wheel over the skin or using a two-finger swipe gesture on a trackpad.
+* Right-clicking the skin toggles **Mute/Unmute**.
+* A progress bar around the album cover visually tracks song playback.
+* Both the progress bar and the song title dynamically adopt an accent color extracted from the album cover.
 
-![Spotibar_skin](https://github.com/user-attachments/assets/b1f05398-6c7b-4f28-8d49-01c7776600de)
+## Spotify Web
+* To use it with Spotify Web, install the [WebNowPlaying](https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli) extension.
+
+
+![Spotibar_skin](/assets/preview.png)
 
 ###### * Minimize the Spotify window rather than close it to work properly.
 ###### * It only works with the Spotify desktop app; the web player is not yet supported.
@@ -21,21 +25,23 @@
 
 1. Install [Spotify](https://www.spotify.com/download/windows)
 2. Install [Rainmeter](https://rainmeter.net)
-3. Install skin [Spotibar](https://github.com/ZoraizLajwer/spotibar)
+3. Download skin [Spotibar](https://github.com/ZoraizLajwer/spotibar/releases)
 
 ## Rainmeter Skin Settings
 
 Select Spotibar skin from the Spotibar folder
 
 **Position:** `Stay topmost`
-* [ ] Draggable
-* [ ] Click through
+* [ ] Draggable (unchecked) 
+* [ ] Click through (unchecked)
 
-You can also turn on game mode in Rainmeter to hide the skin in full-screen mode.
+
+## Taskbar Customization
+To achieve the same visual appearance of the taskbar in Windows 11 as shown in the preview image:
+* Install [Windhawk](https://windhawk.net/download?version=1.1).
+* Within Windhawk, install the **Windows 11 Taskbar Styler**.
+* Select the **Matter** theme to apply the desired style.
 
 ---
-
 > This skin is licensed under the Creative Commons Attribution 4.0 International License.  
-> Font used: Montserrat by Julieta Ulanovsky, licensed under SIL Open Font License (OFL).
-
 ---
